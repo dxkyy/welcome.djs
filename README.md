@@ -33,7 +33,7 @@ Understanding Pathing
 
 ---
 
-Lets get started by setting up our project using [wokgen](https://npmjs.com/package/wokgen). Install wokgen using 
+Lets get started by setting up our project using [wokgen](https://npmjs.com/package/wokgen). You can install wokgen using 
 
 ```
 npm install -g wokgen
